@@ -24,17 +24,32 @@
   text-transform: uppercase;
   letter-spacing: 0px;
   background-image: linear-gradient(#333333, #425465);
-  margin: 35px auto 60px 279px;
+  margin: 35px auto 0 279px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 66px;
+  margin: 96px 210px 18px 69px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-btn-1 {
     margin-left: 79px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 79px;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-btn-1 {
     margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
   }
 }
