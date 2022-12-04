@@ -34,13 +34,16 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 847px;
+  }
+
   .u-section-1 .u-btn-1 {
     margin-left: 79px;
   }
 
   .u-section-1 .u-custom-html-1 {
-    margin-right: 79px;
-    margin-left: 0;
+    margin: 201px 64px 15px 15px;
   }
 }
 
@@ -51,5 +54,6 @@
 
   .u-section-1 .u-custom-html-1 {
     margin-right: 0;
+    margin-left: 0;
   }
 }
