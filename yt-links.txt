@@ -1,37 +1,53 @@
-invidious.namazso.eu 
+invidious.snopyta.org 🇫🇮
 
-inv.riverside.rocks 
+yewtu.be 🇳🇱 Uptime Robot status - Source code/changes: https://github.com/unixfox/invidious-custom
 
-yt.artemislena.eu 
+invidious.kavin.rocks 🇮🇳 Uptime Robot status (uses Cloudflare)
 
-invidious.flokinet.to 
+vid.puffyan.us 🇺🇸 Uptime Robot status
 
-invidious.esmailelbob.xyz 
+inv.riverside.rocks 🇺🇸
 
-inv.bp.projectsegfau.lt 
+yt.artemislena.eu 🇩🇪
 
-y.com.sb 
+invidious.flokinet.to 🇷🇴
 
-invidious.sethforprivacy.com 
+invidious.esmailelbob.xyz 🇨🇦
 
-invidious.tiekoetter.com 
+inv.bp.projectsegfau.lt 🇱🇺
 
-invidious.nerdvpn.de 
+y.com.sb 🇩🇪
 
-inv.vern.cc 
+invidious.tiekoetter.com 🇩🇪
 
-invidious.slipfox.xyz 
+invidious.nerdvpn.de 🇩🇪 - Source code/changes: https://github.com/Sommerwiesel/invidious
 
-invidious.rhyshl.live
+inv.vern.cc 🇺🇸 - Source code/changes: https://git.vern.cc/vern/modifications/src/branch/master/invidious
 
-invidio.xamh.de 
+watch.thekitty.zone 🇩🇪
 
-invidious.dhusch.de 
+inv.odyssey346.dev 🇫🇷
 
-inv.odyssey346.dev 
+invidious.baczek.me 🇵🇱
 
-invidious.baczek.me 
+invidious.weblibre.org 🇨🇱
 
-invidious.weblibre.org 
+invidious.privacydev.net 🇺🇸
 
-invidious.privacydev.net 
+yt.funami.tech 🇰🇷
+
+invidious.lidarshield.cloud 🇲🇩
+
+invidious.silur.me 🇩🇪
+
+iv.melmac.space 🇩🇪
+
+iv.ggtyler.dev 🇨🇦
+
+invidious.epicsite.xyz 🇬🇧
+
+invidious.sethforprivacy.com 🇨🇦
+
+yt.oelrichsgarcia.de 🇩🇪 (uses Cloudflare)
+
+invidious.lunar.icu 🇩🇪 (uses Cloudflare)
